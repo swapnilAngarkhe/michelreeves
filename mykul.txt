@@ -1,0 +1,5 @@
+strength 10
+intelegaance 10
+agility 10
+wisdom 6.9
+luck 9.6
